@@ -14,7 +14,7 @@ programa
 				se(i > j){
 					escreva(" 1 ")
 				}
-				senao{
+				se(i < j){
 					escreva(" 0 ")
 				}
 				se(j == tamanho - 1){
@@ -27,8 +27,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 241; 
  * @PONTOS-DE-PARADA = ;
